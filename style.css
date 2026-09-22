@@ -7,7 +7,7 @@
 body{
 
     font-family: Arial, Helvetica, sans-serif;
-    background:#f4f4f4;
+    background:#003a97;
 
     display:flex;
     justify-content:center;
@@ -19,14 +19,14 @@ body{
 
 .calculadora{
 
-    background:white;
+    background:rgb(158, 147, 255);
     padding:30px;
 
     width:350px;
 
     border-radius:10px;
 
-    box-shadow:0px 0px 10px rgba(0,0,0,.2);
+    box-shadow:0px 0px 10px rgba(0, 21, 255, 0.2);
 
 }
 
